@@ -1,7 +1,7 @@
 # Hacktoberfest t-shirt repo
 
-create 4 or 5 prs in october to get a tshirt
+Create 4 or 5 prs in october to get a tshirt
 
-* status update 10/3/2020
+* Status update 27/10/2021
 
-2020 hackfest has begun. 4 PRs must be submitted, in order to get a shirt.
+2021 Hackfest has begun. 4 PRs must be submitted, in order to get a shirt.
